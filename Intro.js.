@@ -1,0 +1,4 @@
+// Personal introduction
+console.log("Name: Felix Swam");
+console.log("Age: 24");
+console.log("Favorite programming language: JavaScript");
